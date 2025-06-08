@@ -1,0 +1,19 @@
+{
+  "name": "sasu-expense-tracker",
+  "version": "1.0.0",
+  "description": "SASU Receipt Scanner and VAT Extractor",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tesseract.js": "^4.0.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

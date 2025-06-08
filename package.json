@@ -1,5 +1,5 @@
 {
-  "name": "sasu-expense-tracker",
+  "name": "sasu-expense-tracker-v2",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
